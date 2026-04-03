@@ -1,0 +1,11 @@
+{
+  "version_modpack": 1.0,
+  "sklauncher_url": "https://skmedix.pl/binaries/skl/3.2.18/win-x64/SKlauncher-3.2.18_Setup.exe",
+  "links": {
+    "mods.zip": "https://www.mediafire.com/file/ul3pqrjyyqjoa42/mods.zip/file",
+    "kubejs.zip": "https://www.mediafire.com/file/1tqgbrabvvapixz/kubejs.zip/file",
+    "resourcepacks.zip": "https://www.mediafire.com/file/h2fk3ax3be1b2at/resourcepacks.zip/file",
+    "shaderpacks.zip": "https://www.mediafire.com/file/3iafeun3s48hav7/shaderpacks.zip/file",
+    "config.zip": "https://www.mediafire.com/file/mav2m0ucsgbavvy/config.zip/file"
+  }
+}
