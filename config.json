@@ -10,7 +10,8 @@
     "En el Forge, selecciona 'Install Client' (1.20.1). espera a que se instale y vuelve a ingresar al juego, espera a que cargue y lo cierras.",
     "¡Una vez instalado el forge procede a instalar el modpack y espera el mensaje de éxito!",
     "¿Problemas? Asegúrate de tener Java 17 instalado.",
-    "Recuerda que si eres pirata y quieres utilizar skin, debes registrarte en la pagina SKMEDIX.pl, eliges tu nombre de usuario y cargas tu skin, luego reinicas el sklauncher"
+    "Recuerda que si eres pirata y quieres utilizar skin, debes registrarte en la pagina SKMEDIX.pl, eliges tu nombre de usuario y cargas tu skin, luego reinicas el sklauncher",
+    "Si ya instalaste todo y necesitas actualizar los mods o aplicar alguna actualización al datapack, solo debes dar click en 'Instalar Modpack' para que se actualice automaticamente" 
 ]
 
 }
